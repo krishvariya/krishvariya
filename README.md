@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source for extreme learning
 - 📫 How to reach me @roarmamba@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: nerd.
+- ⚡ Fun fact: i like to sleep less
 
 <!---
 krishvariya/krishvariya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
